@@ -51,27 +51,27 @@ The restaurant was founded by an Italian owner passionate about traditional reci
 ## Screenshots
 
 ### Homepage
--Capture d'écran 2026-05-27 181140.png
--Capture d'écran 2026-05-27 181246.png
--Capture d'écran 2026-05-27 181347.png
--Capture d'écran 2026-05-27 181444.png
--Capture d'écran 2026-05-27 181546.png
--Capture d'écran 2026-05-27 181749.png
+![Homepage](Capture d'écran 2026-05-27 181140.png)
+![Homepage](Capture d'écran 2026-05-27 181246.png)
+![Homepage](Capture d'écran 2026-05-27 181347.png)
+![Homepage](Capture d'écran 2026-05-27 181444.png)
+![Homepage](Capture d'écran 2026-05-27 181546.png)
+![Homepage](Capture d'écran 2026-05-27 181749.png)
 
 ### Menu Page
--Capture d'écran 2026-05-27 185233.png
--Capture d'écran 2026-05-27 185613.png
--Capture d'écran 2026-05-27 185404.png
+![Menu](Capture d'écran 2026-05-27 185233.png)
+![Menu](Capture d'écran 2026-05-27 185613.png)
+![Menu](Capture d'écran 2026-05-27 185404.png)
 
 ### About Page
--Capture d'écran 2026-05-27 184736.png
--Capture d'écran 2026-05-27 184843.png
+![About](Capture d'écran 2026-05-27 184736.png)
+![About](Capture d'écran 2026-05-27 184843.png)
 
 ### Contact Page
--Capture d'écran 2026-05-27 181546.png
+![Contact](Capture d'écran 2026-05-27 181546.png)
 
 ### Boutique
--Capture d'écran 2026-05-27 185730.png
+![Boutique](Capture d'écran 2026-05-27 185730.png)
 
 ## Challenges Faced
 - Choosing and customizing the right Wix template  
