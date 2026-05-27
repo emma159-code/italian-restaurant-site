@@ -7,7 +7,7 @@
 - **Institution:** UNILAK  
 - **Course:** Software Engineering / No-Code E-Commerce Project  
 
----
+
 
 ## Project Title
 **La Dolce Vita – Italian Restaurant & Wine Boutique**
@@ -51,18 +51,27 @@ The restaurant was founded by an Italian owner passionate about traditional reci
 ## Screenshots
 
 ### Homepage
-
+-Capture d'écran 2026-05-27 181140.png
+-Capture d'écran 2026-05-27 181246.png
+-Capture d'écran 2026-05-27 181347.png
+-Capture d'écran 2026-05-27 181444.png
+-Capture d'écran 2026-05-27 181546.png
+-Capture d'écran 2026-05-27 181749.png
 
 ### Menu Page
-![Menu Page](screenshots/menu.png)
+-Capture d'écran 2026-05-27 185233.png
+-Capture d'écran 2026-05-27 185613.png
+-Capture d'écran 2026-05-27 185404.png
 
 ### About Page
-![About Page](screenshots/about.png)
+-Capture d'écran 2026-05-27 184736.png
+-Capture d'écran 2026-05-27 184843.png
 
 ### Contact Page
-![Contact Page](screenshots/contact.png)
+-Capture d'écran 2026-05-27 181546.png
 
----
+### Boutique
+-Capture d'écran 2026-05-27 185730.png
 
 ## Challenges Faced
 - Choosing and customizing the right Wix template  
@@ -71,7 +80,7 @@ The restaurant was founded by an Italian owner passionate about traditional reci
 - Creating a clean and professional layout  
 - Managing images and responsive design  
 
----
+
 
 ## Lessons Learned
 Through this project, I learned:
@@ -81,14 +90,12 @@ Through this project, I learned:
 - Basic UI/UX and web design principles  
 - How to document a project using GitHub and Markdown  
 
----
+
 
 ## Live Website Link
 https://akandaemmanuella.wixsite.com/la-dolce-vita
 
----
 
 ## GitHub Repository Link
-🔗 Add your GitHub repository link here after creating your repository.
-https://wix.com/?utm_campaign=vir_created_with
+https://github.com/emma159-code/italian-restaurant-site
 
